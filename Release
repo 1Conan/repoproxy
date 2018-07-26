@@ -2,13 +2,13 @@ Origin: RepoBridge
 Label: BigBoss+
 Suite: stable
 Version: 0.9
-Codename: repounclutter
+Codename: clutteredrepo
 Architectures: iphoneos-arm
 Components: main
 Description: iOS 11 and higher compatible packages from BigBoss, Modmyi and ZodTTD combined
 MD5Sum:
- e9c5de6a20a1b813d3a9dece7e1e807e 4372132 Packages
- 1ff10e3b2bc8d1d368718780978ae8fd 518601 Packages.bz2
-SHA256:
- 944eb0014d3f04d30ed87a0f2e21dedb8705b0c78f34fbc162458c49457969bb 4372132 Packages
- 1f0b5c6f9ed08932995b78cdb3144598786263119e6d7182d165e01429bbbe32 518601 Packages.bz2
+ e9dc4cec03fcbae27c0271c0705f8519 39767052 Packages
+ 86f2030505fbac0340e268de44201692 4728834 Packages.bz2
+SHA256Sum:
+ e725448d866148b86ecc64a2636de477a71811b7e442e30dc981b10a72aa0651 39767052 Packages
+ 4062d284a9d83d13921a68a0a5d38a4a65570d6723653925cc2aefdb02ce608d 4728834 Packages.bz2

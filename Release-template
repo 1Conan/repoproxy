@@ -2,7 +2,7 @@ Origin: RepoBridge
 Label: BigBoss+
 Suite: stable
 Version: 0.9
-Codename: repounclutter
+Codename: clutteredrepo
 Architectures: iphoneos-arm
 Components: main
 Description: iOS 11 and higher compatible packages from BigBoss, Modmyi and ZodTTD combined
