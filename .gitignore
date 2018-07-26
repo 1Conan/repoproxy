@@ -5,3 +5,5 @@ updaterepos.php
 tcimport.php
 tc.csv
 .DS_Store
+update.sh
+cache
